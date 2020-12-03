@@ -1,0 +1,1 @@
+This is a Python script to set bing image of the day as desktop background.
